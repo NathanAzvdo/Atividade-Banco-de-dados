@@ -1,13 +1,6 @@
 # Atividade-Banco-de-dados
 
 
-<style>
-img {
-  background-color: white;
-  padding: 10px;
-  border-radius: 5px;
-}
-</style>
 
 ## Diagramas
 
@@ -41,8 +34,8 @@ img {
   <img src="palestras.drawio.png" alt="Palestras">
 </div>
 
-### Modelo de Especialização
+### funcionario
 <div style="background-color: white; padding: 10px; display: inline-block; border-radius: 5px;">
-  <img src="correcao_especializacao.drawio.png" alt="Especialização">
+  <img src="diagrama sem nome.drawio.png" alt="Especialização">
 </div>
 
